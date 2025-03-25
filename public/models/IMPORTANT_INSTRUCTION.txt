@@ -1,0 +1,1 @@
+Please place your pushpin.stl file in the public/models directory to see the 3D pushpin.
